@@ -1,1 +1,22 @@
-
+# Common-Proxy
+# Work
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack-imgs.com
+DOMAIN-SUFFIX,wrike.com
+DOMAIN-SUFFIX,wrike-cn.com
+DOMAIN-SUFFIX,columbo-event-int.v.aaplimg.com
+DOMAIN-SUFFIX,flyingbird.pro
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,client-rapi-missav.recombee.com
+# Personalized customization
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
+# Blizzard
+DOMAIN-SUFFIX,battle.net
+DOMAIN-SUFFIX,battlenet.com
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,msftconnecttest.com
