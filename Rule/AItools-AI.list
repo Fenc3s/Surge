@@ -18,3 +18,5 @@ DOMAIN,bard.google.com
 # Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+# Bing AI
+DOMAIN-SUFFIX,bing.com
