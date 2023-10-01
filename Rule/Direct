@@ -1,16 +1,37 @@
 # Direct
-
+# Other Proxy (MacOS only) - DIRECT
+PROCESS-NAME,ss-local,DIRECT
+PROCESS-NAME,v2ray,DIRECT
+PROCESS-NAME,xray,DIRECT
+PROCESS-NAME,clash,DIRECT
+PROCESS-NAME,naive,DIRECT
+PROCESS-NAME,trojan,DIRECT
+PROCESS-NAME,trojan-go,DIRECT
+PROCESS-NAME,privoxy,DIRECT
+PROCESS-NAME,leaf,DIRECT
+# Download (MacOS only) - DIRECT
+PROCESS-NAME,Thunder,DIRECT
+PROCESS-NAME,DownloadService,DIRECT
+PROCESS-NAME,qBittorrent,DIRECT
+PROCESS-NAME,Transmission,DIRECT
+PROCESS-NAME,fdm,DIRECT
+PROCESS-NAME,aria2c,DIRECT
+PROCESS-NAME,Folx,DIRECT
+PROCESS-NAME,NetTransport,DIRECT
+PROCESS-NAME,uTorrent,DIRECT
+PROCESS-NAME,WebTorrent,DIRECT
+PROCESS-NAME,Weiyun,DIRECT
+PROCESS-NAME,baidunetdisk,DIRECT
+DOMAIN-KEYWORD,aria2,DIRECT
 # Shopping
 DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,mmstat.com
-
 # Tencent
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencentcs.com
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qpic.cn
-
 # Alibaba
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipay.com.cn
@@ -23,26 +44,21 @@ DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tmall.com
-
 # JD
 DOMAIN-SUFFIX,jd.com
-
 # Weibo
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,sinaimg.cn
-
 # Domestic Streaming
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,mddcloud.com.cn  //埋堆堆
 DOMAIN-SUFFIX,bilibili.com
-
-# takeout
+# Takeout
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
-
 # Work
 DOMAIN-SUFFIX,webex.com
 DOMAIN-SUFFIX,druva.com
@@ -52,7 +68,6 @@ DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
 DOMAIN-SUFFIX,boxcdn.net
 DOMAIN-SUFFIX,umbrella.com
-
 # Personalized customization
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,hupu.com
