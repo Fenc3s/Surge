@@ -42,6 +42,8 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidustatic.com
+DOMAIN-SUFFIX,baidupan.com
+DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
@@ -180,8 +182,12 @@ DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,weibocdn.cn
 DOMAIN-SUFFIX,xiaoka.tv
 # Domestic Streaming
+# Youku
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,mddcloud.com.cn  //埋堆堆
+# mdd 埋堆堆
+DOMAIN-SUFFIX,mddcloud.com.cn
+# Acfun
+DOMAIN-SUFFIX,acfun.tv
 # Bilibili
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
