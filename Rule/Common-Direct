@@ -192,6 +192,10 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,mddcloud.com.cn
 # Acfun
 DOMAIN-SUFFIX,acfun.tv
+DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,acfun.com
+DOMAIN-SUFFIX,aixifan.com
+USER-AGENT,AcFun*
 # Bilibili
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
