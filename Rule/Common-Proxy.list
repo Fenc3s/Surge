@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,google.com
 # Developer
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,docker.com
