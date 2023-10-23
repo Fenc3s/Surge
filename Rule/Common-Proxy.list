@@ -94,9 +94,9 @@ DOMAIN-SUFFIX,battlenet.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,msftconnecttest.com
 # NSFW
+DOMAIN-KEYWORD,porn
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,client-rapi-missav.recombee.com
-DOMAIN-KEYWORD,porn
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,8teenxxx.com
