@@ -33,9 +33,6 @@ DOMAIN-SUFFIX,3dmgame.com
 DOMAIN-SUFFIX,gamesky.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,ifanr.com
-DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,firecore.com
-DOMAIN-SUFFIX,bugsnag.com
 # Work
 DOMAIN-SUFFIX,webex.com
 DOMAIN-SUFFIX,druva.com
@@ -45,6 +42,11 @@ DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
 DOMAIN-SUFFIX,boxcdn.net
 DOMAIN-SUFFIX,umbrella.com
+# Surge
+DOMAIN-SUFFIX,bugsnag.com
+# Infuse
+DOMAIN-SUFFIX,firecore.com
+DOMAIN-SUFFIX,discourse-cdn.com
 # Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
@@ -178,6 +180,8 @@ DOMAIN-SUFFIX,paipai.com
 # PDD 拼多多
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,yangkeduo.com
+# Mi
+DOMAIN-SUFFIX,mi.com
 # Sina
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,miaopai.com
