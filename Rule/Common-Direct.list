@@ -42,8 +42,6 @@ DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
 DOMAIN-SUFFIX,boxcdn.net
 DOMAIN-SUFFIX,umbrella.com
-# Surge
-DOMAIN-SUFFIX,bugsnag.com
 # Infuse
 DOMAIN-SUFFIX,firecore.com
 DOMAIN-SUFFIX,discourse-cdn.com
