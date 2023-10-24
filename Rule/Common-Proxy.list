@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,discourse-cdn.com
 DOMAIN-SUFFIX,infuse.im
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,trakt.tv
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
