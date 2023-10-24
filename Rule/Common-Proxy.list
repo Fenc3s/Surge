@@ -35,6 +35,9 @@ DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
 # Surge
 DOMAIN-SUFFIX,bugsnag.com
+# Infuse
+DOMAIN-SUFFIX,firecore.com
+DOMAIN-SUFFIX,discourse-cdn.com
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
