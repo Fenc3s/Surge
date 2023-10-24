@@ -38,6 +38,8 @@ DOMAIN-SUFFIX,bugsnag.com
 # Infuse
 DOMAIN-SUFFIX,firecore.com
 DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,infuse.im
+DOMAIN-SUFFIX,themoviedb.org
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
