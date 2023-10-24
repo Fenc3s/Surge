@@ -33,6 +33,8 @@ DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,stackoverflow.com
+# Surge
+DOMAIN-SUFFIX,bugsnag.com
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
