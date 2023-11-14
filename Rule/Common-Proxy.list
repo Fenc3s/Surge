@@ -21,6 +21,8 @@ DOMAIN-SUFFIX,maxmind.com   //geolite2
 DOMAIN-SUFFIX,yfamily.vercel.app
 DOMAIN-SUFFIX,userscript.zone
 DOMAIN-SUFFIX,ruleset.skk.moe
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,vercel.app
 # Developer
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,docker.com
