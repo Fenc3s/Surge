@@ -48,9 +48,12 @@ DOMAIN-SUFFIX,sonatype.org
 DOMAIN-SUFFIX,sourcegraph.com
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
+DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,warp.dev
+DOMAIN-SUFFIX,raycast.com
 # Surge
 DOMAIN-SUFFIX,bugsnag.com
 # Infuse
@@ -60,6 +63,11 @@ DOMAIN-SUFFIX,infuse.im
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,trakt.tv
+# Microsoft
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
+DOMAIN-SUFFIX,microsoft.com
 # Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.io
@@ -156,3 +164,5 @@ DOMAIN-SUFFIX,9to5toys.com
 DOMAIN-SUFFIX,dronedj.com
 DOMAIN-SUFFIX,electrek.co
 DOMAIN-SUFFIX,spaceexplored.com
+# Yahoo
+DOMAIN-SUFFIX,yahoo.com
