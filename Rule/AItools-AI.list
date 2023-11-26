@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 # Google-Bard
+DOMAIN,google.com
 DOMAIN,bard.google.com
 # Claude
 DOMAIN-SUFFIX,anthropic.com
