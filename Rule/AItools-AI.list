@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,aibard.online
 DOMAIN-SUFFIX,withgoogle.com
 # Claude
 DOMAIN-SUFFIX,anthropic.com
