@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,ruleset.skk.moe
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,thetvdb.org
 # Developer
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,docker.com
