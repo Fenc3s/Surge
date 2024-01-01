@@ -1,1 +1,5 @@
+[Proxy]
+VPN = direct, interface=utun4, allow-other-interface=true
 
+[Rule]
+IP-CIDR,17.233.128.0/19,VPN,no-resolve
