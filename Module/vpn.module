@@ -1,3 +1,7 @@
+#!name=DCVPN
+#!desc=Add DCVPN rule and policy
+#!homepage=https://github.com/Fenc3s/Surge
+
 [Proxy]
 VPN = direct, interface=utun4, allow-other-interface=true
 
