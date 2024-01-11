@@ -2,8 +2,8 @@
 #!desc=Add DCVPN rule and policy
 #!homepage=https://github.com/Fenc3s/Surge
 
-[Proxy]
-VPN = direct, interface=utun4, allow-other-interface=true
+[General]
+always-real-ip = *.6pzfwf.com, *.mxupmlu.com
 
-[Rule]
-IP-CIDR,17.233.128.0/19,VPN,no-resolve
+[Host]
+*.6pzfwf.com = 36.155.79.204
