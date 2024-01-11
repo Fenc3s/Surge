@@ -6,14 +6,14 @@
 always-real-ip = *.6pzfwf.com, *.mxupmlu.com
 
 [Host]
-*.us*.6pzfwf.com = 36.155.79.204
-*.jp*.6pzfwf.com = 36.155.79.204
-*.hk*.6pzfwf.com = 183.240.232.116
-*.my*.6pzfwf.com = 183.240.232.116
-*.tw*.6pzfwf.com = 183.240.232.116
-*.sg*.6pzfwf.com = 183.240.232.116
-*.uk*.6pzfwf.com = 183.240.232.116
-*.tr*.6pzfwf.com = 183.240.232.116
-*.ar*.6pzfwf.com = 183.240.232.116
+*.us01.6pzfwf.com = 36.155.79.204
+*.jp01.6pzfwf.com = 36.155.79.204
+*.hk01.6pzfwf.com = 183.240.232.116
+*.my01.6pzfwf.com = 183.240.232.116
+*.tw01.6pzfwf.com = 183.240.232.116
+*.sg01.6pzfwf.com = 183.240.232.116
+*.uk01.6pzfwf.com = 183.240.232.116
+*.tr01.6pzfwf.com = 183.240.232.116
+*.ar01.6pzfwf.com = 183.240.232.116
 gtm-sg-6wr2tkcds0k.mxupmlu.com = 36.155.79.204
 gtm-sg-6wr31c34d8d.mxupmlu.com = 183.240.232.116
