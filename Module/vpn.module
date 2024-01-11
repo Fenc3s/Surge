@@ -3,7 +3,7 @@
 #!homepage=https://github.com/Fenc3s/Surge
 
 [General]
-always-real-ip = %INSERT% *.lan, *.direct, cable.auth.com, *.msftconnecttest.com, *.msftncsi.com, *.srv.nintendo.net, *.stun.playstation.net, xbox.*.microsoft.com, *.xboxlive.com, localhost.*.qq.com, localhost.*.weixin.qq.com, *.logon.battlenet.com.cn, *.logon.battle.net, *.blzstatic.cn, y.qq.com, *.y.qq.com, streamoc.music.tc.qq.com, proxy.golang.org, *.mcdn.bilivideo.cn, *.cmpassport.com, auth.wosms.cn, *.jegotrip.com.cn, *.icitymobile.mobi, *.cmbchina.com, pool.ntp.org, *.pool.ntp.org, ntp.*.com, time.*.com, ntp?.*.com, time?.*.com, time.*.gov, time.*.edu.cn, *.6pzfwf.com, *.mxupmlu.com
+always-real-ip = %INSERT% *.6pzfwf.com, *.mxupmlu.com
 
 [Host]
 a47ac7fa.h2m5m5m7s3-fb-hk01.6pzfwf.com = 183.240.232.116
