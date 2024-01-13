@@ -6,6 +6,4 @@
 always-real-ip = %INSERT% *.6pzfwf.com, *.mxupmlu.com
 
 [Host]
-*.6pzfwf.com = 36.155.79.204
-gtm-sg-6wr2tkcds0k.mxupmlu.com = 36.155.79.204
-gtm-sg-6wr31c34d8d.mxupmlu.com = 183.240.232.116
+*.6pzfwf.com = 120.232.234.202
