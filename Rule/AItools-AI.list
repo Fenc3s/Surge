@@ -37,3 +37,5 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,poe.com
 # Paypal
 DOMAIN-SUFFIX,paypal.com
+# Perplexity
+DOMAIN-SUFFIX,perplexity.ai
